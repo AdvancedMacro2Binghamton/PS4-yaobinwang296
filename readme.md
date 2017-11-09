@@ -17,7 +17,7 @@ My answers to all questions 1-6 can be found in the .m file named "PS4_Aiyagari_
                     I also draw the lorenze curve for wealth and calculated the wealth Gini coeff.;
                     And finally, I draw the distribution of wealth;
 
-My answers to all question 7 can be found in the .m file named "PS4_PFI_Yaobin".
+My answers to question 7 can be found in the .m file named "PS4_PFI_Yaobin".
 
     For question 7, I used PFI in addition to VFI to slove the model numerically and report the time elapsed;
 
